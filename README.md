@@ -31,4 +31,4 @@
 
 ### 📊 GitHub Stats
 <!-- 这里会自动生成你的代码数据卡片 -->
-![Ragazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragazzo-dd27&show_icons=true&theme=radical)
+![Ragazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragazzo-dd27&show_icons=true&theme=radical&random=1)
