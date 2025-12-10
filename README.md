@@ -26,8 +26,3 @@
 <!-- 常用工具 -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🔥 GitHub Streak
-![Ragazzo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ragazzo-dd27&theme=radical&hide_border=true)
