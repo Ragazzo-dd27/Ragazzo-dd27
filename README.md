@@ -1,13 +1,24 @@
-### Hi there 👋 I'm Ragazzo
+### Hi there 👋, I'm Ragazzo
 
-我是一名来自 **中国深圳** 的开发者，目前在 **华中科技大学 (HUST)** 攻读软件工程硕士学位。
-此前，我于 **大连理工大学 (DUT)** 获得了软件工程学士学位。
+I am a developer from **Shenzhen, China**, currently pursuing my **Master's degree in Software Engineering** at **Huazhong University of Science and Technology (HUST)**. Previously, I received my B.E. degree from **Dalian University of Technology (DUT)**.
 
-- 🔭 我目前的研究方向：**计算机视觉 (Computer Vision)** & **卷积神经网络 (CNNs)**
-- 🌱 我正在深入探索：**深度学习算法优化 & 图像处理**
-- 🎓 我的教育背景：**HUST (M.S.) / DUT (B.E.)**
-- 💬 欢迎和我讨论：**AI, Deep Learning, Software Engineering**
-- 📫 如何联系我：ragazzo_dd27@outlook.com
+- 🔭 **Research Interests**: Computer Vision (CV) & Convolutional Neural Networks (CNNs).
+- 🌱 **Currently Exploring**: Deep Learning Algorithm Optimization & Image Processing.
+- 🎓 **Education**: M.S. Candidate at HUST | B.E. from DUT.
+- 💬 **Ask me about**: AI, Deep Learning, Software Engineering.
+- 📫 **How to reach me**: [ragazzo_dd27@outlook.com](mailto:ragazzo_dd27@outlook.com)
+
+---
+
+**关于我 (About Me)**
+
+我是 Ragazzo，一名来自中国深圳的开发者。目前在 **华中科技大学 (HUST)** 攻读软件工程硕士学位，本科毕业于 **大连理工大学 (DUT)**。
+
+*   🔭 **目前的研究方向**: 计算机视觉 (CV) & 卷积神经网络 (CNNs)
+*   🌱 **正在深入探索**: 深度学习算法优化 & 图像处理
+*   🎓 **我的教育背景**: 华中科技大学 (硕士) / 大连理工大学 (学士)
+*   💬 **欢迎和我讨论**: AI, 深度学习, 软件工程
+*   📫 **如何联系我**：ragazzo_dd27@outlook.com
 
 ---
 
