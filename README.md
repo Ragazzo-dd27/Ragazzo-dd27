@@ -12,7 +12,7 @@ I am a developer from **Shenzhen, China**, currently pursuing my **Master's degr
 
 **关于我 (About Me)**
 
-我是 Ragazzo，一名来自中国深圳的开发者。目前在 **华中科技大学 (HUST)** 攻读软件工程硕士学位，此前我于 **大连理工大学 (DUT)**获得了软件工程学士学位。
+我是 Ragazzo，一名来自中国深圳的开发者。目前在 **华中科技大学 (HUST)** 攻读软件工程硕士学位，此前我于 **大连理工大学 (DUT)** 获得了软件工程学士学位。
 
 *   🔭 **目前的研究方向**: 计算机视觉 (CV) & 卷积神经网络 (CNNs)
 *   🌱 **正在深入探索**: 深度学习算法优化 & 图像处理
